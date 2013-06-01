@@ -1,6 +1,13 @@
 *.class
-
+README.md
 # Package Files #
 *.jar
 *.war
 *.ear
+.classpath
+.git/
+bin/
+.settings/
+.project
+.gitignore
+Resume-yesh.pdf
